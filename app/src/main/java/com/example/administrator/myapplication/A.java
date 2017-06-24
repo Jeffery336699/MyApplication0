@@ -5,5 +5,7 @@ package com.example.administrator.myapplication;
  */
 
 public class A {
-
+    public static void test(){
+        System.out.println("test ");
+    }
 }
