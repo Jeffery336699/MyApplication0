@@ -28,5 +28,6 @@ public class MainActivity extends AppCompatActivity {
     @OnClick(R.id.tv_hello_world)
     public void onViewClicked() {
         Log.i(TAG, "onViewClicked: ----推送到远程dev分支");
+        Log.i(TAG, "onViewClicked: ----推送到远程dev1分支");
     }
 }
