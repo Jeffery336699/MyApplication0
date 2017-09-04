@@ -29,5 +29,6 @@ public class MainActivity extends AppCompatActivity {
     public void onViewClicked() {
         Log.i(TAG, "onViewClicked: ----推送到远程dev分支");
         Log.i(TAG, "onViewClicked: ----推送到远程dev1分支");
+        Log.i(TAG, "onViewClicked: ----推送dev4");
     }
 }
